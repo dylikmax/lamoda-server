@@ -1,0 +1,9 @@
+.filters__multiselect {
+    display: grid;
+    grid-gap: 3px;
+    margin-bottom: 10px;
+}
+
+.select-name {
+    font-weight: 700;
+}
